@@ -34,6 +34,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Surya-Git-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Surya-Git-hub&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Surya-Git-hub&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
+<p align="center"> 
+Visitors count<br>
+<img src="https://profile-counter.glitch.me/surya-git-hub/count.svg" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
