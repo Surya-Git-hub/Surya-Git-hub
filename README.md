@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain DAOs.<br>👯 I’m looking to collaborate on anything that interest me.<br>🤝 I’m looking for help with Rust.<br>🌱 I’m currently learning Rust and Hyperledger Fabric.<br>💬 Ask me about JS and Blockchain.<br>⚡ Fun fact i was an Electrical Engineer.
+🔭 I’m currently working on elevating up my Backend Skills.<br>👯 I’m looking to collaborate on anything that interest me.<br>🤝 I’m looking for help with Rust.<br>🌱 I’m currently learning Rust and Low Level Systems.<br>💬 Ask me about JS and Blockchain.<br>⚡ Fun fact i was an Electrical Engineer.
 
 
 ## 🌐 Socials:
