@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on elevating up my Backend Skills.<br>👯 I’m looking to collaborate on anything that involves Javascript.<br>🤝 I’m looking for help with Microservices.<br>🌱 I’m currently learning Low Level Systems.<br>💬 Ask me about JS.<br>⚡ Fun fact i was an Electrical Engineer.
+🔧 <strong>Currently building scalable backend systems with Node.js</strong><br>
+🤝 <strong>Open to collaboration on high-performance APIs, microservices, or distributed systems</strong><br>
+🚀 <strong>Exploring system design, event-driven architectures, and infrastructure optimization</strong><br>
+📦 <strong>Experienced in JavaScript/TypeScript, Express, NestJS, MongoDB, Redis, and message queues (RabbitMQ, Kafka)</strong><br>
+🌱 <strong>Diving deeper into low-level systems and backend performance tuning</strong><br>
+💬 <strong>Happy to chat about JavaScript, architecture patterns, and backend engineering best practices</strong>
+<br>⚡ Fun fact i was an Electrical Engineer.
 
 
 ## 🌐 Socials:
