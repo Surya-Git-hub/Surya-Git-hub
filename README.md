@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔧 <strong>Currently building scalable backend systems with Node.js</strong><br>
-🤝 <strong>Open to collaboration on high-performance APIs, microservices, or distributed systems</strong><br>
-🚀 <strong>Exploring system design, event-driven architectures, and infrastructure optimization</strong><br>
-📦 <strong>Experienced in JavaScript/TypeScript, Express, NestJS, MongoDB, Redis, and message queues (RabbitMQ, Kafka)</strong><br>
-🌱 <strong>Diving deeper into low-level systems and backend performance tuning</strong><br>
-💬 <strong>Happy to chat about JavaScript, architecture patterns, and backend engineering best practices</strong>
-<br>⚡ Fun fact i was an Electrical Engineer.
+🔧 Currently building scalable backend systems with Node.js<br>
+🤝 Open to collaboration on high-performance APIs, microservices, or distributed systems<br>
+🚀 Exploring system design, event-driven architectures, and infrastructure optimization<br>
+📦 Experienced in JavaScript/TypeScript, Express, NestJS, MongoDB, Redis, and message queues (RabbitMQ, Kafka)<br>
+🌱 Diving deeper into low-level systems and backend performance tuning<br>
+💬 Happy to chat about JavaScript, architecture patterns, and backend engineering best practices<br>
+⚡ Fun fact i was an Electrical Engineer.
 
 
 ## 🌐 Socials:
